@@ -72,14 +72,14 @@
     ],
 
     whoami: () => [
-      { t: 'accent', v: 'Jose Aparicio — Front-End Developer' },
+      { t: 'accent', v: 'Jose Aparicio — IT Support & Front-End Developer' },
       { t: 'dim',    v: '────────────────────────────────────────────────' },
       { t: 'main',   v: '  Location   : Málaga, España' },
       { t: 'main',   v: '  Background : 8 years in hospitality management' },
       { t: 'main',   v: '  Stack      : HTML · CSS · JavaScript' },
       { t: 'main',   v: '  Building   : EquiShift — fair shift algorithm' },
       { t: 'main',   v: `  Day        : ${DAY} of 365. Still coding.` },
-      { t: 'green',  v: '  Status     : Available for junior roles' },
+      { t: 'green',  v: '  Status     : Available for IT Support roles' },
       { t: 'dim',    v: '' },
       { t: 'dim',    v: 'Not a career change. A system upgrade.' },
     ],
@@ -104,15 +104,15 @@
     ],
 
     status: () => [
-      { t: 'accent', v: 'Mission: become a web developer' },
+      { t: 'accent', v: 'Mission: become an IT Support professional' },
       { t: 'dim',    v: '──────────────────────────────────────' },
       { t: 'main',   v: `  Day         : ${DAY} / 365` },
       { t: 'main',   v: `  Progress    : [${BAR}] ${PCT}%` },
       { t: 'green',  v: '  Streak      : active' },
-      { t: 'main',   v: '  Certs       : Meta Front-End (in progress)' },
-      { t: 'main',   v: '  Stack       : HTML · CSS · JavaScript' },
-      { t: 'main',   v: '  Next target : React' },
-      { t: 'green',  v: '  Available   : junior front-end roles' },
+      { t: 'main',   v: '  Certs       : Google IT Support · Meta Front-End' },
+      { t: 'main',   v: '  Focus       : Windows · Linux · Networking · Troubleshooting' },
+      { t: 'main',   v: '  Next target : CompTIA A+ · October 2026' },
+      { t: 'green',  v: '  Available   : IT Support / Technical Support roles' },
       { t: 'dim',    v: '' },
       { t: 'dim',    v: 'Consistency that cannot be faked.' },
     ],
@@ -125,7 +125,7 @@
       { t: 'cyan',   v: '  GitHub    : github.com/anudoranador87' },
       { t: 'cyan',   v: '  WhatsApp  : wa.link/gp0oxb' },
       { t: 'dim',    v: '' },
-      { t: 'dim',    v: 'Available for junior front-end roles. Málaga or remote.' },
+      { t: 'dim',   v: 'Available for IT Support roles. Málaga, hybrid or remote.' },
     ],
 
     secret: () => [
